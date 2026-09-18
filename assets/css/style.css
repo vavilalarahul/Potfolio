@@ -832,7 +832,10 @@ html {
 }
 
 .logo img {
-    width: 70px;
+    width: 92px;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 .main-menu {
